@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PicQuestApp
 //
-//  Created by Priyadarsini, Anjali (Contractor) on 20/06/23.
+//  Created by Arohi, Agnivesh (Contractor) on 20/06/23.
 //
 
 import UIKit
